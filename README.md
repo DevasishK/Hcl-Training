@@ -31,11 +31,11 @@ HCI-Training
 
 📄 File Description
 
-File	Description
-inheritance.java	Demonstrates how inheritance works between parent and child classes
-abstract.java	Shows implementation of abstract classes and abstract methods
-interface.java	Demonstrates how Java interfaces are defined and implemented
-Employee_Salary_System.java	Simple system for managing employee salary calculations
+File	                     Description
+inheritance.java	         Demonstrates how inheritance works between parent and child classes
+abstract.java	             Shows implementation of abstract classes and abstract methods
+interface.java	             Demonstrates how Java interfaces are defined and implemented
+Employee_Salary_System.java	 Simple system for managing employee salary calculations
 
 
 ⸻
